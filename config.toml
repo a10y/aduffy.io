@@ -1,0 +1,35 @@
+baseurl = "https://aduffy.io/"
+languageCode = "en"
+title = "aduffy.io"
+theme = "hucore"
+copyright = "&copy; Andrew Duffy 2017"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+description = "Your description here"
+keywords = ["keyword 1", "keyword 2", "keyword 3"]
+author = "Andrew Duffy"
+sharingicons = true
+
+[params.highlight]
+style = "github"
+languages = ["haskell", "python", "c++"]
+
+[[params.social]]
+url = "https://github.com/a10y"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/andreweduffy"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://linkedin.com/in/andreweduffy"
+fa_icon = "fa-linkedin-square"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"

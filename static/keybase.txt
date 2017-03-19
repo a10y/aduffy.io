@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/aduffy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aduffy.io
+  * I am aduffy (https://keybase.io/aduffy) on keybase.
+  * I have a public key with fingerprint D1AE 8663 1E59 BAB8 AD86  EFE3 2ED8 05EB 4AA0 8489
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015fa1995ebe8c3b91c070e8e669a754e08de01e2c605017e583e06d236001d4a20a",
+            "fingerprint": "d1ae86631e59bab8ad86efe32ed805eb4aa08489",
+            "host": "keybase.io",
+            "key_id": "2ed805eb4aa08489",
+            "kid": "01015fa1995ebe8c3b91c070e8e669a754e08de01e2c605017e583e06d236001d4a20a",
+            "uid": "345afbbde4dafb60265334e4247cc019",
+            "username": "aduffy"
+        },
+        "service": {
+            "hostname": "aduffy.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485918304,
+    "expire_in": 157680000,
+    "prev": "c1b4b26185099d028bf6d6dfbbeed0a31711be94a14cc3c280a6d6d12ec0ca1c",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIaAnicrVJNbExRFJ6OlkyFKNFuqOYJqWrl3vdz574htELip0H8JP7Hve+emT5t
+35vOezPaVNP4WXRhUWoh8dtEhLApFlioSomQaIVF/dUCCSWpRVMLJe4rFhJLd3Ny
+z/nOd77v5PROmRDKz5lD6mY+6B2I5zzq6ciEth7dsKdZ4a5oUmLNSi2MB6gT4Pnx
+WlsoMQVhhI0Ew6ZpAAdqadzEFooioECIyaKGDogKQBhUiyAD4SgYVANEhKoRhLDQ
+mYqYUq4kbCcJ6VTadnxJKzADSoiGwTA545QJSiABmgqCIjlJZwxRnZqyscb1gg4p
+jjMPFtmuzMlPfFzeP/D/WXdmnE7TDZbgXIAuZCRIJYam6aCretSyEA7mZjxIO6we
+JJqJTCLRpLSUKzKXtS0I1hr4+Kv+y0oq7fqu5dbJdI3vp7xY0OY3pQLcPuDx3wxx
+bjtCrlB2ZCHt2a6jxLBEWr4dUGKdGiamGtLLFWhM2WmI2wHCiBKK5AvmQFZSWpjr
+XCWYGsg0BVIpTxBBhPQGIBDTcBRjDqbOsG5ZmqVSxII6VsFCFsOWEnhqcFzJTaRO
+lpScnp10mJ9Jg9Jy987O3FBOfmhiXji4rVB+ZNqfi3tBJ/1QS4er8tOvB/JO7Vo5
+PZx8V7CurLKzFfgM52O1frx/bswwNrWWtHd+eXlpRepYbeTc0MsScaW6dF9na+GF
++m9uffvIs4qi55nrLQfCHVPttpuXb7UPPy8+s1z1rnvZ7+VjO76PbRnZWbt+VuLG
+grGuT2dLcO7Svp7RjmV83v3hS8VD0yrurNnwdPpCs3Tx18Hie/2b1i75sH/Z6qJt
+p7e/uHrQb288O6GgL9tWMn9F4cnDo709r+PNDRerRk7nbuaFC0Ldn689PPiqOxIJ
+P+YbJ3cY75/V3fLEoW5y4troGnHkSUUx3+s2ht8+KPs42FU5peH8sd1v2ED9yPtV
+ZyJXb892Hv8EjPM7Tw==
+=/ypP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aduffy
+
+==================================================================
