@@ -1,6 +1,7 @@
 ---
 date: "2017-03-08"
 title: Make Your Own Tools
+tags: ["thoughts"]
 ---
 
 > "_Give me lever long enough and a fulcrum sturdy enough and I will move the world._"
@@ -28,7 +29,6 @@ the tests fail, you have work left to do. If they all pass, then you’re
 for me in all the classes where I’ve done well, as well as in my internships.
 The skill of being able to write simple bash/python/whatever scripts that are
 capable of performing menial tasks frees your mind up so you can get to work,
-and validation is as simple as "did it pass/fail". 
+and validation is as simple as "did it pass/fail".
 
-Clear your mind, write good
-tools.
+Clear your mind, write good tools.

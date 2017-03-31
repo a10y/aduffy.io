@@ -1,6 +1,8 @@
 ---
 date: "2017-01-12"
 title: "Haskell Networking"
+description: "A primer on Haskell networking facilities."
+tags: ["haskell", "networking", "how-to"]
 ---
 
 I haven't done any Haskell in a while, so I decided to write a simple Echo service to grease the
@@ -135,7 +137,7 @@ type.
 
 ```haskell
 echoListen :: (Integral a) => a -> IO ()
-echoListen port = 
+echoListen port =
     do sock <- listenOn $ PortNumber (fromIntegral port :: PortNumber) -- (1) Allocate socket
        chosenPort <- NS.socketPort sock
        putStrLn $ "Listening on port " ++ show chosenPort

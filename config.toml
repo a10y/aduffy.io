@@ -3,6 +3,7 @@ languageCode = "en"
 title = "aduffy.io"
 theme = "hucore"
 copyright = "&copy; Andrew Duffy 2017"
+footnoteReturnLinkContents = "↩"
 
 [taxonomies]
 tag = "tags"
